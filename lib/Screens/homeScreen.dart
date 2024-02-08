@@ -99,13 +99,14 @@ class CustomSearchBar extends StatefulWidget {
 
 class _CustomSearchBarState extends State<CustomSearchBar> {
   List<String> _citiesSuggestion = [
-    'New York',
-    'Tokyo',
-    'Dubai',
-    'London',
+     'Rajshahi',
+    'Dhaka',
+    'Lalmonirhat',
+    'Hatibandha',
+    'Natore',
+    'Sylhet',
+    'Rangpur',
     'Singapore',
-    'Sydney',
-    'Wellington'
   ];
 
   @override
